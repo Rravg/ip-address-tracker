@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-ip-tracker-using-typescript-L1n-EY7wZx)
+- Live Site URL: [Live Site](https://rravg.github.io/ip-address-tracker/)
 
 ## My process
 
